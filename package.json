@@ -1,0 +1,19 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/cli.js",
+  "bin": {
+    "cli": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kev_nz/async-tools": "^1.2.1",
+    "commander": "^2.20.0",
+    "ora": "^3.4.0"
+  }
+}
